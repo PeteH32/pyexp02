@@ -10,6 +10,7 @@ import sys
 #   https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
 # Also see:
 #   src/HackerRank/sherlock-and-anagrams-testcases/sherlock-and-anagrams-English.pdf
+# NOTE: This implementation was not performant enough. Took 11 sec with input03.txt
 
 def get_letter_counts(w):
     cnts = {}   # k, v = c, cnt
