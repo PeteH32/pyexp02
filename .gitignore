@@ -16,3 +16,4 @@ terraform.tfstate
 terraform.tfstate.backup
 
 lambda_producer_files.zip
+lambda_files.zip
