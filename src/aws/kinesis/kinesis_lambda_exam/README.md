@@ -1,3 +1,12 @@
+# How to build and deploy
+
+- In top-level, run the Makefile, which will create the source code deployment bundle for both Lambdas
+  - `make`
+- In terraform folder, create all the AWs resources by running terraform
+  - `cd terraform`
+  - `terraform plan`
+  - `terraform apply`
+
 # Coding challenge from Cigna (Srinivas Gurava)
 
 Please see below for Pete. Make sure he sends it by End of the day Wednesday. 
