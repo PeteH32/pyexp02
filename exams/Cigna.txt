@@ -1,0 +1,3 @@
+See these folders/files:
+    src/aws/kinesis/kinesis_lambda_exam
+    src/aws/kinesis/kinesis_lambda_exam/README.md
