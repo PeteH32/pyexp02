@@ -7,7 +7,8 @@
   - `terraform plan`
   - `terraform apply`
 
-# Coding challenge from Cigna (Srinivas Gurava)
+# Coding challenge from Cigna (Srinivas Gurava / Srinivas Guruzu)
+https://www.linkedin.com/in/srinivas-guruzu/
 
 Please see below for Pete. Make sure he sends it by End of the day Wednesday. 
 
